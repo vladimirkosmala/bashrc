@@ -1,0 +1,4 @@
+bashrc
+======
+
+Personnal bashrc

@@ -24,11 +24,11 @@ alias ll='ls $LS_OPTIONS -l'
 alias l='ls $LS_OPTIONS -lA'
 alias ..='cd ..'
 
-alias as='lynx http://127.0.0.1/server-status'	# status
-alias ar='/etc/init.d/apache2 restart'			# restart
-alias ap='cd /etc/apache2'						# path
+alias as='lynx http://127.0.0.1/server-status'  # status
+alias ar='/etc/init.d/apache2 restart'          # restart
+alias ap='cd /etc/apache2'                      # path
 
-alias ps='aptitude search'						# search
+alias ps='aptitude search'                      # search
 
 # Security
 alias rm='rm -i'
